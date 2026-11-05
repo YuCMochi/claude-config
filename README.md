@@ -4,8 +4,8 @@
 
 ## 內容
 - `CLAUDE.md`：全域協作規則（精簡，硬規則放這裡）
-- `skills/git-workflow`：commit、merge、未提交改動的處理細節
-- `skills/backlog`：專案 BACKLOG.md 的管理方式
+- `skills/git-workflow-mochi`：commit、merge、未提交改動的處理細節
+- `skills/backlog-mochi`：專案 BACKLOG.md 的管理方式
 
 ## 安裝（每台裝置一次）
 ```

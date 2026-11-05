@@ -1,5 +1,5 @@
 ---
-name: backlog
+name: backlog-mochi
 description: Use when the user says "記一下", finishes a development stage, or asks what to do next or about project direction. Manages the project's BACKLOG.md (Now / Next / Ideas / Parked).
 ---
 

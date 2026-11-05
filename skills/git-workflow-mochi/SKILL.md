@@ -1,5 +1,5 @@
 ---
-name: git-workflow
+name: git-workflow-mochi
 description: Use whenever committing, branching, merging, or running any git operation in a project. Covers atomic commits, commit message style, handling the user's uncommitted changes, and merge strategy.
 ---
 
